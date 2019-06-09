@@ -1,0 +1,21 @@
+canvas{
+  border : 1px solid black;
+}
+
+#right{
+	position: absolute;
+	left: 44%;
+
+}
+
+#left{
+
+	position: absolute;
+	left: 50%;
+}
+
+#score{
+	position: absolute;
+	left: 45%;
+}
+
